@@ -1,5 +1,5 @@
-#Python Factorial Calculation
-#Python Faktoriyel Hesaplama
+# Python Factorial Calculation
+# Python Faktoriyel Hesaplama
 
 
 ![project_screenshot](https://i.hizliresim.com/1bj6kq7.png)
